@@ -1,0 +1,3 @@
+rootProject.name = 'talktime_1626'
+
+include ':app'
